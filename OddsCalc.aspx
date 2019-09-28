@@ -10,7 +10,7 @@
    <form id="form1" runat="server">
     <div id="divBody"> 
         <table style="z-index: 102; left: 529px; position: absolute; top: 60px" Width="456px">
-         <tr><td style="width: 107px; height: 21px">
+         <%--<tr><td style="width: 107px; height: 21px">--%>
              <strong>Player</strong></td><td style="height: 21px">
              <strong>Hand Value</strong></td><td style="height: 21px">
              <strong>Opponent</strong></td></tr>
