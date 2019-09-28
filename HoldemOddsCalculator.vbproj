@@ -204,6 +204,7 @@
     <Content Include="images\Kd.gif" />
     <Content Include="images\Kh.gif" />
     <Content Include="images\Ks.gif" />
+    <Content Include="images\OddsCalc.PNG" />
     <Content Include="images\pgpokertable.JPG" />
     <Content Include="images\pgtable_blank_1024x768.bmp" />
     <Content Include="images\pgtable_blank_640x480.bmp" />
